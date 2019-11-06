@@ -1,7 +1,7 @@
-# aws_basics
+@ aws_basics
 Aws basics learning
 
-## Vpc: virutal private cloud: It is the resources that we have in our cloud with public access and private access (ex: ec2 instance as a public and database as a private resource)
+@ Vpc: virutal private cloud: It is the resources that we have in our cloud with public access and private access (ex: ec2 instance as a public and database as a private resource)
 let's go through the steps how we can create a custom vpc.
 
 follow the steps below:
